@@ -12,4 +12,4 @@ I'm Suphawat
 - 🚀 Keep exploring 🎧
 
 ---
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Pac-Man animation](https://raw.githubusercontent.com/Platane/snk/output/pacman-contribution-graph-dark.svg)
